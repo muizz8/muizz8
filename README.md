@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Muizz</h1>
 <h3 align="center">Pakistani AI/ML student for life. Code, collaborate, never stop learning. 🇵🇰</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:https://www.linkedin.com/in/abdulmuizz1/</h3>
 <p align="left">
 </p>
 
