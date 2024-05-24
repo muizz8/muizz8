@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Abdul Muizz</h1>
-<h3 align="center">Pakistani AI/ML student for life. Code, collaborate, never stop learning. 🇵🇰</h3>
+Abdul Muizz: AI/ML Engineer (Inquisitive Learner)
+I'm Abdul Muizz, an AI/ML engineer fueled by an insatiable curiosity to learn and explore the ever-evolving field of machine learning. This profile serves as a central hub for anyone interested in connecting, collaborating, or simply following my journey in this fascinating domain. Whether you're a seasoned expert or a fellow enthusiast, I'm always eager to learn from others and share my experiences. Feel free to reach out and strike up a conversation about the latest advancements in AI/ML or the potential applications that pique your interest.
 
-<h3 align="left">Connect with me:https://www.linkedin.com/in/abdulmuizz1/</h3>
-<p align="left">
-</p>
+Currently Learning: TensorFlow,PyTorch,MLops
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+Skills: Python,Flask,Pandas,NumPy,HuggingFace,Scikit-Learn
+
+Connect with me!
+https://www.linkedin.com/in/abdulmuizz1/
+
 
