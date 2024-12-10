@@ -4,7 +4,7 @@
 
 **Currently Learning: TensorFlow, PyTorch, MLops.**
 
-**Skills: Python, Flask, Pandas, NumPy, HuggingFace, Scikit-Learn, LangChain**
+**Skills: Python, Flask, Pandas, NumPy, Matplolib, HuggingFace, Scikit-Learn, LangChain, Pytorch**
 
 **Connect with me!  
 (https://www.linkedin.com/in/abdulmuizz1/)**
